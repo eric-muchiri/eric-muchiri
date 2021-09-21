@@ -1,5 +1,9 @@
 ### Hi 👋 Am [Eric](https://eric-muchiri.github.io/) :nerd_face:
 
+- 🔭A fullstack web developer :man_technologist:  
+- Currently working on Node :globe_with_meridians:  
+- Based in Nairobi :cityscape: Kenya  
+
 <!--
 **eric-muchiri/eric-muchiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
